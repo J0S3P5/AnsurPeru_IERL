@@ -1,0 +1,2 @@
+los estilos de styles.css
+más diseño en el inicio
